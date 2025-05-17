@@ -1,0 +1,65 @@
+[
+  {
+    "source": "1747435862989",
+    "sourceHandle": "hola",
+    "target": "1747436079152",
+    "targetHandle": "1747436079152_target",
+    "id": "reactflow__edge-1747435862989hola-17474360791521747436079152_target"
+  },
+  {
+    "source": "1747435862989",
+    "sourceHandle": "ho",
+    "target": "1747436079152",
+    "targetHandle": "1747436079152_target",
+    "id": "reactflow__edge-1747435862989ho-17474360791521747436079152_target"
+  },
+  {
+    "source": "1747435862989",
+    "sourceHandle": "quien",
+    "target": "1747436079152",
+    "targetHandle": "1747436079152_target",
+    "id": "reactflow__edge-1747435862989quien-17474360791521747436079152_target"
+  },
+  {
+    "source": "1747435862989",
+    "sourceHandle": "sos",
+    "target": "1747436079152",
+    "targetHandle": "1747436079152_target",
+    "id": "reactflow__edge-1747435862989sos-17474360791521747436079152_target"
+  },
+  {
+    "source": "1747435862989",
+    "sourceHandle": "?",
+    "target": "1747436079152",
+    "targetHandle": "1747436079152_target",
+    "id": "reactflow__edge-1747435862989?-17474360791521747436079152_target"
+  },
+  {
+    "source": "1747436079152",
+    "sourceHandle": "SI",
+    "target": "1747436060347",
+    "targetHandle": "1747436060347_target",
+    "id": "reactflow__edge-1747436079152SI-17474360603471747436060347_target"
+  },
+  {
+    "source": "1747436079152",
+    "sourceHandle": "NO",
+    "target": "1747436276198",
+    "targetHandle": "1747436276198_target",
+    "id": "reactflow__edge-1747436079152NO-17474362761981747436276198_target"
+  },
+  {
+    "source": "1747436276198",
+    "sourceHandle": "FRENAR MENSAJES",
+    "target": "1747436302411",
+    "targetHandle": "1747436302411_target",
+    "id": "reactflow__edge-1747436276198FRENAR MENSAJES-17474363024111747436302411_target"
+  },
+  {
+    "source": "1747436276198",
+    "sourceHandle": "SI",
+    "target": "1747436060347",
+    "targetHandle": "1747436060347_target",
+    "id": "reactflow__edge-1747436276198SI-17474360603471747436060347_target"
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1747435862989",
+    "type": "TEXT",
+    "nodeType": "TEXT",
+    "position": {
+      "x": 341,
+      "y": 257
+    },
+    "data": {
+      "msgContent": {
+        "text": "Hola como estas ?"
+      },
+      "keyword": [
+        "hola",
+        "ho",
+        "quien",
+        "sos",
+        "?"
+      ]
+    },
+    "keyword": [],
+    "width": 268,
+    "height": 426,
+    "selected": false,
+    "dragging": false,
+    "positionAbsolute": {
+      "x": 341,
+      "y": 257
+    }
+  },
+  {
+    "id": "1747436060347",
+    "type": "TEXT",
+    "nodeType": "TEXT",
+    "position": {
+      "x": 1363.2210900653517,
+      "y": 183.88787342763374
+    },
+    "data": {
+      "msgContent": {
+        "text": "Perfecto, decime tu nombre o apodo asi te creo un usuario primero\n\nnuestra pagina es https://bet30.us\n\nResponde solamente con nombre o apodo"
+      },
+      "keyword": []
+    },
+    "keyword": [],
+    "width": 268,
+    "height": 263,
+    "selected": true,
+    "positionAbsolute": {
+      "x": 1363.2210900653517,
+      "y": 183.88787342763374
+    },
+    "dragging": false
+  },
+  {
+    "id": "1747436079152",
+    "type": "POLL",
+    "nodeType": "POLL",
+    "position": {
+      "x": 694,
+      "y": 227
+    },
+    "data": {
+      "msgContent": {
+        "poll": {
+          "name": "Tu proxima carga viene con premio 🎁 *BONO DEL 50%*   Bono valido por 15 minutos- Queres activar tu bono ahora ?. ",
+          "values": [
+            "SI",
+            "NO"
+          ],
+          "selectableCount": 1
+        }
+      },
+      "keyword": [
+        "SI",
+        "NO"
+      ]
+    },
+    "keyword": [],
+    "width": 268,
+    "height": 256,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 694,
+      "y": 227
+    },
+    "dragging": false
+  },
+  {
+    "id": "1747436276198",
+    "type": "POLL",
+    "nodeType": "POLL",
+    "position": {
+      "x": 1030,
+      "y": 563
+    },
+    "data": {
+      "msgContent": {
+        "poll": {
+          "name": "Queres que te dejemos el bono activo para mas tarde ?",
+          "values": [
+            "SI",
+            "FRENAR MENSAJES"
+          ],
+          "selectableCount": 1
+        }
+      },
+      "keyword": [
+        "SI",
+        "FRENAR MENSAJES"
+      ]
+    },
+    "keyword": [],
+    "width": 268,
+    "height": 256,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 1030,
+      "y": 563
+    },
+    "dragging": false
+  },
+  {
+    "id": "1747436302411",
+    "type": "TEXT",
+    "nodeType": "TEXT",
+    "position": {
+      "x": 1486,
+      "y": 640
+    },
+    "data": {
+      "msgContent": {
+        "text": "Perfecto. \n\ndisculpa las molestias"
+      },
+      "keyword": []
+    },
+    "keyword": [],
+    "width": 268,
+    "height": 210,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 1486,
+      "y": 640
+    },
+    "dragging": false
+  }
+]
